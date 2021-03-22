@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BooksDBMS", "BooksDBMS.vdproj", "{2A8CB7C3-62FD-42E6-9A82-ACF694CABD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8CB7C3-62FD-42E6-9A82-ACF694CABD9D}.Debug|Default.ActiveCfg = Debug
+		{2A8CB7C3-62FD-42E6-9A82-ACF694CABD9D}.Debug|Default.Build.0 = Debug
+		{2A8CB7C3-62FD-42E6-9A82-ACF694CABD9D}.Release|Default.ActiveCfg = Release
+		{2A8CB7C3-62FD-42E6-9A82-ACF694CABD9D}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E10882-7378-4599-976A-EDB7D2D61C62}
+	EndGlobalSection
+EndGlobal
